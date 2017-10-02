@@ -1,0 +1,10 @@
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\Timedisplay\bin\Debug\netcoreapp2.0\Timedisplay.deps.json
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\Timedisplay\bin\Debug\netcoreapp2.0\Timedisplay.runtimeconfig.json
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\Timedisplay\bin\Debug\netcoreapp2.0\Timedisplay.runtimeconfig.dev.json
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\Timedisplay\bin\Debug\netcoreapp2.0\Timedisplay.dll
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\Timedisplay\bin\Debug\netcoreapp2.0\Timedisplay.pdb
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\Timedisplay\obj\Debug\netcoreapp2.0\Timedisplay.csproj.CoreCompileInputs.cache
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\Timedisplay\obj\Debug\netcoreapp2.0\Timedisplay.AssemblyInfoInputs.cache
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\Timedisplay\obj\Debug\netcoreapp2.0\Timedisplay.AssemblyInfo.cs
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\Timedisplay\obj\Debug\netcoreapp2.0\Timedisplay.dll
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\Timedisplay\obj\Debug\netcoreapp2.0\Timedisplay.pdb

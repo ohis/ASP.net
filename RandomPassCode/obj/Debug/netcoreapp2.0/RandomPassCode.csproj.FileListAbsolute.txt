@@ -1,0 +1,10 @@
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\RandomPassCode\bin\Debug\netcoreapp2.0\RandomPassCode.deps.json
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\RandomPassCode\bin\Debug\netcoreapp2.0\RandomPassCode.runtimeconfig.json
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\RandomPassCode\bin\Debug\netcoreapp2.0\RandomPassCode.runtimeconfig.dev.json
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\RandomPassCode\bin\Debug\netcoreapp2.0\RandomPassCode.dll
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\RandomPassCode\bin\Debug\netcoreapp2.0\RandomPassCode.pdb
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\RandomPassCode\obj\Debug\netcoreapp2.0\RandomPassCode.csproj.CoreCompileInputs.cache
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\RandomPassCode\obj\Debug\netcoreapp2.0\RandomPassCode.AssemblyInfoInputs.cache
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\RandomPassCode\obj\Debug\netcoreapp2.0\RandomPassCode.AssemblyInfo.cs
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\RandomPassCode\obj\Debug\netcoreapp2.0\RandomPassCode.dll
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\RandomPassCode\obj\Debug\netcoreapp2.0\RandomPassCode.pdb

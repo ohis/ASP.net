@@ -1,0 +1,10 @@
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\forms\bin\Debug\netcoreapp2.0\forms.deps.json
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\forms\bin\Debug\netcoreapp2.0\forms.runtimeconfig.json
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\forms\bin\Debug\netcoreapp2.0\forms.runtimeconfig.dev.json
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\forms\bin\Debug\netcoreapp2.0\forms.dll
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\forms\bin\Debug\netcoreapp2.0\forms.pdb
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\forms\obj\Debug\netcoreapp2.0\forms.csproj.CoreCompileInputs.cache
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\forms\obj\Debug\netcoreapp2.0\forms.AssemblyInfoInputs.cache
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\forms\obj\Debug\netcoreapp2.0\forms.AssemblyInfo.cs
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\forms\obj\Debug\netcoreapp2.0\forms.dll
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\forms\obj\Debug\netcoreapp2.0\forms.pdb

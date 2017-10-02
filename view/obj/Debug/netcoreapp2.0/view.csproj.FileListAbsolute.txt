@@ -1,0 +1,10 @@
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\view\bin\Debug\netcoreapp2.0\view.deps.json
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\view\bin\Debug\netcoreapp2.0\view.runtimeconfig.json
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\view\bin\Debug\netcoreapp2.0\view.runtimeconfig.dev.json
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\view\bin\Debug\netcoreapp2.0\view.dll
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\view\bin\Debug\netcoreapp2.0\view.pdb
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\view\obj\Debug\netcoreapp2.0\view.csproj.CoreCompileInputs.cache
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\view\obj\Debug\netcoreapp2.0\view.AssemblyInfoInputs.cache
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\view\obj\Debug\netcoreapp2.0\view.AssemblyInfo.cs
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\view\obj\Debug\netcoreapp2.0\view.dll
+C:\Users\ohis\Documents\Csharp\Project\ASPNET\view\obj\Debug\netcoreapp2.0\view.pdb
